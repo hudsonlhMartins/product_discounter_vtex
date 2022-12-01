@@ -1,0 +1,26 @@
+.container_discount{
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+}
+
+.container_discount strong{
+    font-size: 1.75rem;
+}
+.priceNormal{
+    font-size: inherit;
+}
+.notDisponivel strong{
+    color: #999 !important;
+    font-size: 1.125rem;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+.container_test{
+    background-color: transparent;
+}
+
+
+
